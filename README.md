@@ -1,2 +1,6 @@
 ## Mini-Project 1 - Email Subscribe Card
 ![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/601c60f7-55a3-4318-a16e-680abd0e7cf5)
+
+## Mini-Project 2 - Pricing Grids
+![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/977254e6-9e83-451d-a90d-be5b426ab327)
+
