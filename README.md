@@ -4,3 +4,6 @@
 ## Mini-Project 2 - Pricing Grids
 ![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/977254e6-9e83-451d-a90d-be5b426ab327)
 
+## Mini-Project 3 - Product Modal
+![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/1eabad09-7665-44dd-9dde-a75f21889a07)
+
