@@ -7,3 +7,6 @@
 ## Mini-Project 3 - Product Modal
 ![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/1eabad09-7665-44dd-9dde-a75f21889a07)
 
+## Mini-Project 4 - Image Gallery
+![image](https://github.com/lucas-cercal/tailwind-projects/assets/90524666/c33c388c-17f9-4698-9d1a-240288ad1194)
+
